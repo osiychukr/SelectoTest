@@ -10,6 +10,17 @@
 		51A4D9CF1E49026D0021533F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51A4D9CD1E49026D0021533F /* Main.storyboard */; };
 		51A4D9DE1E4905F20021533F /* DesignController.m in Sources */ = {isa = PBXBuildFile; fileRef = 51A4D9DD1E4905F20021533F /* DesignController.m */; };
 		51A4D9E91E4914410021533F /* Translater.m in Sources */ = {isa = PBXBuildFile; fileRef = 51A4D9E81E4914410021533F /* Translater.m */; };
+		51A4DA101E49FD9B0021533F /* Diamond copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 51A4DA061E49FD9B0021533F /* Diamond copy.png */; };
+		51A4DA111E49FD9B0021533F /* Ellipse 14.png in Resources */ = {isa = PBXBuildFile; fileRef = 51A4DA071E49FD9B0021533F /* Ellipse 14.png */; };
+		51A4DA121E49FD9B0021533F /* Layer 60.png in Resources */ = {isa = PBXBuildFile; fileRef = 51A4DA081E49FD9B0021533F /* Layer 60.png */; };
+		51A4DA131E49FD9B0021533F /* Layer 61.png in Resources */ = {isa = PBXBuildFile; fileRef = 51A4DA091E49FD9B0021533F /* Layer 61.png */; };
+		51A4DA141E49FD9B0021533F /* Rectangle 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 51A4DA0A1E49FD9B0021533F /* Rectangle 3.png */; };
+		51A4DA151E49FD9B0021533F /* Rectangle 6 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 51A4DA0B1E49FD9B0021533F /* Rectangle 6 copy.png */; };
+		51A4DA161E49FD9B0021533F /* Rectangle 24 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 51A4DA0C1E49FD9B0021533F /* Rectangle 24 copy.png */; };
+		51A4DA171E49FD9B0021533F /* Rectangle 24.png in Resources */ = {isa = PBXBuildFile; fileRef = 51A4DA0D1E49FD9B0021533F /* Rectangle 24.png */; };
+		51A4DA181E49FD9B0021533F /* Rounded Rectangle 12 copy 11.png in Resources */ = {isa = PBXBuildFile; fileRef = 51A4DA0E1E49FD9B0021533F /* Rounded Rectangle 12 copy 11.png */; };
+		51A4DA191E49FD9B0021533F /* Rounded Rectangle 12 copy 12.png in Resources */ = {isa = PBXBuildFile; fileRef = 51A4DA0F1E49FD9B0021533F /* Rounded Rectangle 12 copy 12.png */; };
+		51A4DB081E49FEF00021533F /* FLAnimatedImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 51A4DB041E49FEE60021533F /* FLAnimatedImage.framework */; };
 		51DACB0B1E4866AF00B27D61 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 51DACB0A1E4866AF00B27D61 /* main.m */; };
 		51DACB0E1E4866AF00B27D61 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 51DACB0D1E4866AF00B27D61 /* AppDelegate.m */; };
 		51DACB111E4866AF00B27D61 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 51DACB101E4866AF00B27D61 /* ViewController.m */; };
@@ -25,17 +36,6 @@
 		51DACB3B1E48766A00B27D61 /* elephant.gif in Resources */ = {isa = PBXBuildFile; fileRef = 51DACB321E48766A00B27D61 /* elephant.gif */; };
 		51DACB3C1E48766A00B27D61 /* money.gif in Resources */ = {isa = PBXBuildFile; fileRef = 51DACB331E48766A00B27D61 /* money.gif */; };
 		51DACB3D1E48766A00B27D61 /* skate.gif in Resources */ = {isa = PBXBuildFile; fileRef = 51DACB341E48766A00B27D61 /* skate.gif */; };
-		51DACB721E48864200B27D61 /* FLAnimatedImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 51DACB6E1E487DED00B27D61 /* FLAnimatedImage.framework */; };
-		51DACCD01E48B4C900B27D61 /* Diamond copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 51DACCC61E48B4C900B27D61 /* Diamond copy.png */; };
-		51DACCD11E48B4C900B27D61 /* Ellipse 14.png in Resources */ = {isa = PBXBuildFile; fileRef = 51DACCC71E48B4C900B27D61 /* Ellipse 14.png */; };
-		51DACCD21E48B4C900B27D61 /* Layer 60.png in Resources */ = {isa = PBXBuildFile; fileRef = 51DACCC81E48B4C900B27D61 /* Layer 60.png */; };
-		51DACCD31E48B4C900B27D61 /* Layer 61.png in Resources */ = {isa = PBXBuildFile; fileRef = 51DACCC91E48B4C900B27D61 /* Layer 61.png */; };
-		51DACCD41E48B4C900B27D61 /* Rectangle 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 51DACCCA1E48B4C900B27D61 /* Rectangle 3.png */; };
-		51DACCD51E48B4C900B27D61 /* Rectangle 6 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 51DACCCB1E48B4C900B27D61 /* Rectangle 6 copy.png */; };
-		51DACCD61E48B4C900B27D61 /* Rectangle 24 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 51DACCCC1E48B4C900B27D61 /* Rectangle 24 copy.png */; };
-		51DACCD71E48B4C900B27D61 /* Rectangle 24.png in Resources */ = {isa = PBXBuildFile; fileRef = 51DACCCD1E48B4C900B27D61 /* Rectangle 24.png */; };
-		51DACCD81E48B4C900B27D61 /* Rounded Rectangle 12 copy 11.png in Resources */ = {isa = PBXBuildFile; fileRef = 51DACCCE1E48B4C900B27D61 /* Rounded Rectangle 12 copy 11.png */; };
-		51DACCD91E48B4C900B27D61 /* Rounded Rectangle 12 copy 12.png in Resources */ = {isa = PBXBuildFile; fileRef = 51DACCCF1E48B4C900B27D61 /* Rounded Rectangle 12 copy 12.png */; };
 		51DACCF21E48B9AC00B27D61 /* Lato-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 51DACCE01E48B9AC00B27D61 /* Lato-Black.ttf */; };
 		51DACCF31E48B9AC00B27D61 /* Lato-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 51DACCE11E48B9AC00B27D61 /* Lato-BlackItalic.ttf */; };
 		51DACCF41E48B9AC00B27D61 /* Lato-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 51DACCE21E48B9AC00B27D61 /* Lato-Bold.ttf */; };
@@ -61,16 +61,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		51DACB6D1E487DED00B27D61 /* PBXContainerItemProxy */ = {
+		51A4DB031E49FEE60021533F /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 51DACB491E487DED00B27D61 /* FLAnimatedImage.xcodeproj */;
+			containerPortal = 51A4DADF1E49FEE60021533F /* FLAnimatedImage.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 92C9BC0C1B199DC500D79B06;
 			remoteInfo = FLAnimatedImage;
 		};
-		51DACB701E487DED00B27D61 /* PBXContainerItemProxy */ = {
+		51A4DB061E49FEE60021533F /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 51DACB641E487DED00B27D61 /* FLAnimatedImageDemo.xcodeproj */;
+			containerPortal = 51A4DAFA1E49FEE60021533F /* FLAnimatedImageDemo.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 872EBE6C178B825500B7531B;
 			remoteInfo = FLAnimatedImageDemo;
@@ -83,6 +83,50 @@
 		51A4D9DD1E4905F20021533F /* DesignController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DesignController.m; sourceTree = "<group>"; };
 		51A4D9E71E4914410021533F /* Translater.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Translater.h; path = SelectoTest/Translater.h; sourceTree = SOURCE_ROOT; };
 		51A4D9E81E4914410021533F /* Translater.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Translater.m; path = SelectoTest/Translater.m; sourceTree = SOURCE_ROOT; };
+		51A4DA061E49FD9B0021533F /* Diamond copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Diamond copy.png"; sourceTree = "<group>"; };
+		51A4DA071E49FD9B0021533F /* Ellipse 14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ellipse 14.png"; sourceTree = "<group>"; };
+		51A4DA081E49FD9B0021533F /* Layer 60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Layer 60.png"; sourceTree = "<group>"; };
+		51A4DA091E49FD9B0021533F /* Layer 61.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Layer 61.png"; sourceTree = "<group>"; };
+		51A4DA0A1E49FD9B0021533F /* Rectangle 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rectangle 3.png"; sourceTree = "<group>"; };
+		51A4DA0B1E49FD9B0021533F /* Rectangle 6 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rectangle 6 copy.png"; sourceTree = "<group>"; };
+		51A4DA0C1E49FD9B0021533F /* Rectangle 24 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rectangle 24 copy.png"; sourceTree = "<group>"; };
+		51A4DA0D1E49FD9B0021533F /* Rectangle 24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rectangle 24.png"; sourceTree = "<group>"; };
+		51A4DA0E1E49FD9B0021533F /* Rounded Rectangle 12 copy 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rounded Rectangle 12 copy 11.png"; sourceTree = "<group>"; };
+		51A4DA0F1E49FD9B0021533F /* Rounded Rectangle 12 copy 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rounded Rectangle 12 copy 12.png"; sourceTree = "<group>"; };
+		51A4DAD61E49FEE60021533F /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		51A4DAD71E49FEE60021533F /* CHANGES */ = {isa = PBXFileReference; lastKnownFileType = text; path = CHANGES; sourceTree = "<group>"; };
+		51A4DAD91E49FEE60021533F /* FLAnimatedImage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FLAnimatedImage.h; sourceTree = "<group>"; };
+		51A4DADA1E49FEE60021533F /* FLAnimatedImage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FLAnimatedImage.m; sourceTree = "<group>"; };
+		51A4DADB1E49FEE60021533F /* FLAnimatedImageView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FLAnimatedImageView.h; sourceTree = "<group>"; };
+		51A4DADC1E49FEE60021533F /* FLAnimatedImageView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FLAnimatedImageView.m; sourceTree = "<group>"; };
+		51A4DADD1E49FEE60021533F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		51A4DADE1E49FEE60021533F /* FLAnimatedImage.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = FLAnimatedImage.podspec; sourceTree = "<group>"; };
+		51A4DADF1E49FEE60021533F /* FLAnimatedImage.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = FLAnimatedImage.xcodeproj; sourceTree = "<group>"; };
+		51A4DAE21E49FEE60021533F /* FLAnimatedImage.xcworkspace */ = {isa = PBXFileReference; lastKnownFileType = wrapper.workspace; path = FLAnimatedImage.xcworkspace; sourceTree = "<group>"; };
+		51A4DAE41E49FEE60021533F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		51A4DAE51E49FEE60021533F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		51A4DAE61E49FEE60021533F /* DebugView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DebugView.h; sourceTree = "<group>"; };
+		51A4DAE71E49FEE60021533F /* DebugView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DebugView.m; sourceTree = "<group>"; };
+		51A4DAE91E49FEE60021533F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		51A4DAEA1E49FEE60021533F /* FLAnimatedImageDemo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FLAnimatedImageDemo-Info.plist"; sourceTree = "<group>"; };
+		51A4DAEB1E49FEE60021533F /* FLAnimatedImageDemo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FLAnimatedImageDemo-Prefix.pch"; sourceTree = "<group>"; };
+		51A4DAEC1E49FEE60021533F /* FrameCacheView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FrameCacheView.h; sourceTree = "<group>"; };
+		51A4DAED1E49FEE60021533F /* FrameCacheView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FrameCacheView.m; sourceTree = "<group>"; };
+		51A4DAEE1E49FEE60021533F /* GraphView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GraphView.h; sourceTree = "<group>"; };
+		51A4DAEF1E49FEE60021533F /* GraphView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GraphView.m; sourceTree = "<group>"; };
+		51A4DAF01E49FEE60021533F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		51A4DAF11E49FEE60021533F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		51A4DAF21E49FEE60021533F /* PlayheadView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlayheadView.h; sourceTree = "<group>"; };
+		51A4DAF31E49FEE60021533F /* PlayheadView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlayheadView.m; sourceTree = "<group>"; };
+		51A4DAF41E49FEE60021533F /* RootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		51A4DAF51E49FEE60021533F /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		51A4DAF61E49FEE60021533F /* RSPlayPauseButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RSPlayPauseButton.h; sourceTree = "<group>"; };
+		51A4DAF71E49FEE60021533F /* RSPlayPauseButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RSPlayPauseButton.m; sourceTree = "<group>"; };
+		51A4DAF91E49FEE60021533F /* rock.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = rock.gif; sourceTree = "<group>"; };
+		51A4DAFA1E49FEE60021533F /* FLAnimatedImageDemo.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = FLAnimatedImageDemo.xcodeproj; sourceTree = "<group>"; };
+		51A4DAFF1E49FEE60021533F /* flanimatedimage-demo-player.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "flanimatedimage-demo-player.gif"; sourceTree = "<group>"; };
+		51A4DB001E49FEE60021533F /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		51A4DB011E49FEE60021533F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		51DACB061E4866AF00B27D61 /* SelectoTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SelectoTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		51DACB0A1E4866AF00B27D61 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		51DACB0C1E4866AF00B27D61 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -103,50 +147,6 @@
 		51DACB321E48766A00B27D61 /* elephant.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = elephant.gif; sourceTree = "<group>"; };
 		51DACB331E48766A00B27D61 /* money.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = money.gif; sourceTree = "<group>"; };
 		51DACB341E48766A00B27D61 /* skate.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = skate.gif; sourceTree = "<group>"; };
-		51DACB401E487DED00B27D61 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
-		51DACB411E487DED00B27D61 /* CHANGES */ = {isa = PBXFileReference; lastKnownFileType = text; path = CHANGES; sourceTree = "<group>"; };
-		51DACB431E487DED00B27D61 /* FLAnimatedImage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FLAnimatedImage.h; sourceTree = "<group>"; };
-		51DACB441E487DED00B27D61 /* FLAnimatedImage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FLAnimatedImage.m; sourceTree = "<group>"; };
-		51DACB451E487DED00B27D61 /* FLAnimatedImageView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FLAnimatedImageView.h; sourceTree = "<group>"; };
-		51DACB461E487DED00B27D61 /* FLAnimatedImageView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FLAnimatedImageView.m; sourceTree = "<group>"; };
-		51DACB471E487DED00B27D61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		51DACB481E487DED00B27D61 /* FLAnimatedImage.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = FLAnimatedImage.podspec; sourceTree = "<group>"; };
-		51DACB491E487DED00B27D61 /* FLAnimatedImage.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = FLAnimatedImage.xcodeproj; sourceTree = "<group>"; };
-		51DACB4C1E487DED00B27D61 /* FLAnimatedImage.xcworkspace */ = {isa = PBXFileReference; lastKnownFileType = wrapper.workspace; path = FLAnimatedImage.xcworkspace; sourceTree = "<group>"; };
-		51DACB4E1E487DED00B27D61 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		51DACB4F1E487DED00B27D61 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		51DACB501E487DED00B27D61 /* DebugView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DebugView.h; sourceTree = "<group>"; };
-		51DACB511E487DED00B27D61 /* DebugView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DebugView.m; sourceTree = "<group>"; };
-		51DACB531E487DED00B27D61 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		51DACB541E487DED00B27D61 /* FLAnimatedImageDemo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FLAnimatedImageDemo-Info.plist"; sourceTree = "<group>"; };
-		51DACB551E487DED00B27D61 /* FLAnimatedImageDemo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FLAnimatedImageDemo-Prefix.pch"; sourceTree = "<group>"; };
-		51DACB561E487DED00B27D61 /* FrameCacheView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FrameCacheView.h; sourceTree = "<group>"; };
-		51DACB571E487DED00B27D61 /* FrameCacheView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FrameCacheView.m; sourceTree = "<group>"; };
-		51DACB581E487DED00B27D61 /* GraphView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GraphView.h; sourceTree = "<group>"; };
-		51DACB591E487DED00B27D61 /* GraphView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GraphView.m; sourceTree = "<group>"; };
-		51DACB5A1E487DED00B27D61 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		51DACB5B1E487DED00B27D61 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		51DACB5C1E487DED00B27D61 /* PlayheadView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlayheadView.h; sourceTree = "<group>"; };
-		51DACB5D1E487DED00B27D61 /* PlayheadView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlayheadView.m; sourceTree = "<group>"; };
-		51DACB5E1E487DED00B27D61 /* RootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
-		51DACB5F1E487DED00B27D61 /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
-		51DACB601E487DED00B27D61 /* RSPlayPauseButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RSPlayPauseButton.h; sourceTree = "<group>"; };
-		51DACB611E487DED00B27D61 /* RSPlayPauseButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RSPlayPauseButton.m; sourceTree = "<group>"; };
-		51DACB631E487DED00B27D61 /* rock.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = rock.gif; sourceTree = "<group>"; };
-		51DACB641E487DED00B27D61 /* FLAnimatedImageDemo.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = FLAnimatedImageDemo.xcodeproj; sourceTree = "<group>"; };
-		51DACB691E487DED00B27D61 /* flanimatedimage-demo-player.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "flanimatedimage-demo-player.gif"; sourceTree = "<group>"; };
-		51DACB6A1E487DED00B27D61 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		51DACB6B1E487DED00B27D61 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		51DACCC61E48B4C900B27D61 /* Diamond copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Diamond copy.png"; path = "SelectoTest/Design/Diamond copy.png"; sourceTree = SOURCE_ROOT; };
-		51DACCC71E48B4C900B27D61 /* Ellipse 14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Ellipse 14.png"; path = "SelectoTest/Design/Ellipse 14.png"; sourceTree = SOURCE_ROOT; };
-		51DACCC81E48B4C900B27D61 /* Layer 60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Layer 60.png"; path = "SelectoTest/Design/Layer 60.png"; sourceTree = SOURCE_ROOT; };
-		51DACCC91E48B4C900B27D61 /* Layer 61.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Layer 61.png"; path = "SelectoTest/Design/Layer 61.png"; sourceTree = SOURCE_ROOT; };
-		51DACCCA1E48B4C900B27D61 /* Rectangle 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Rectangle 3.png"; path = "SelectoTest/Design/Rectangle 3.png"; sourceTree = SOURCE_ROOT; };
-		51DACCCB1E48B4C900B27D61 /* Rectangle 6 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Rectangle 6 copy.png"; path = "SelectoTest/Design/Rectangle 6 copy.png"; sourceTree = SOURCE_ROOT; };
-		51DACCCC1E48B4C900B27D61 /* Rectangle 24 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Rectangle 24 copy.png"; path = "SelectoTest/Design/Rectangle 24 copy.png"; sourceTree = SOURCE_ROOT; };
-		51DACCCD1E48B4C900B27D61 /* Rectangle 24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Rectangle 24.png"; path = "SelectoTest/Design/Rectangle 24.png"; sourceTree = SOURCE_ROOT; };
-		51DACCCE1E48B4C900B27D61 /* Rounded Rectangle 12 copy 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Rounded Rectangle 12 copy 11.png"; path = "SelectoTest/Design/Rounded Rectangle 12 copy 11.png"; sourceTree = SOURCE_ROOT; };
-		51DACCCF1E48B4C900B27D61 /* Rounded Rectangle 12 copy 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Rounded Rectangle 12 copy 12.png"; path = "SelectoTest/Design/Rounded Rectangle 12 copy 12.png"; sourceTree = SOURCE_ROOT; };
 		51DACCE01E48B9AC00B27D61 /* Lato-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Black.ttf"; sourceTree = "<group>"; };
 		51DACCE11E48B9AC00B27D61 /* Lato-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-BlackItalic.ttf"; sourceTree = "<group>"; };
 		51DACCE21E48B9AC00B27D61 /* Lato-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Bold.ttf"; sourceTree = "<group>"; };
@@ -176,7 +176,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				51DACB721E48864200B27D61 /* FLAnimatedImage.framework in Frameworks */,
+				51A4DB081E49FEF00021533F /* FLAnimatedImage.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -191,6 +191,96 @@
 			);
 			name = Models;
 			path = "../../../../../../Volumes/NO NAME/Translator-master/translater";
+			sourceTree = "<group>";
+		};
+		51A4DAD51E49FEE60021533F /* FLAnimatedImage-master */ = {
+			isa = PBXGroup;
+			children = (
+				51A4DAD61E49FEE60021533F /* .gitignore */,
+				51A4DAD71E49FEE60021533F /* CHANGES */,
+				51A4DAD81E49FEE60021533F /* FLAnimatedImage */,
+				51A4DADE1E49FEE60021533F /* FLAnimatedImage.podspec */,
+				51A4DADF1E49FEE60021533F /* FLAnimatedImage.xcodeproj */,
+				51A4DAE21E49FEE60021533F /* FLAnimatedImage.xcworkspace */,
+				51A4DAE31E49FEE60021533F /* FLAnimatedImageDemo */,
+				51A4DAFA1E49FEE60021533F /* FLAnimatedImageDemo.xcodeproj */,
+				51A4DAFE1E49FEE60021533F /* images */,
+				51A4DB001E49FEE60021533F /* LICENSE */,
+				51A4DB011E49FEE60021533F /* README.md */,
+			);
+			name = "FLAnimatedImage-master";
+			path = "SelectoTest/FLAnimatedImage-master";
+			sourceTree = "<group>";
+		};
+		51A4DAD81E49FEE60021533F /* FLAnimatedImage */ = {
+			isa = PBXGroup;
+			children = (
+				51A4DAD91E49FEE60021533F /* FLAnimatedImage.h */,
+				51A4DADA1E49FEE60021533F /* FLAnimatedImage.m */,
+				51A4DADB1E49FEE60021533F /* FLAnimatedImageView.h */,
+				51A4DADC1E49FEE60021533F /* FLAnimatedImageView.m */,
+				51A4DADD1E49FEE60021533F /* Info.plist */,
+			);
+			path = FLAnimatedImage;
+			sourceTree = "<group>";
+		};
+		51A4DAE01E49FEE60021533F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				51A4DB041E49FEE60021533F /* FLAnimatedImage.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		51A4DAE31E49FEE60021533F /* FLAnimatedImageDemo */ = {
+			isa = PBXGroup;
+			children = (
+				51A4DAE41E49FEE60021533F /* AppDelegate.h */,
+				51A4DAE51E49FEE60021533F /* AppDelegate.m */,
+				51A4DAE61E49FEE60021533F /* DebugView.h */,
+				51A4DAE71E49FEE60021533F /* DebugView.m */,
+				51A4DAE81E49FEE60021533F /* InfoPlist.strings */,
+				51A4DAEA1E49FEE60021533F /* FLAnimatedImageDemo-Info.plist */,
+				51A4DAEB1E49FEE60021533F /* FLAnimatedImageDemo-Prefix.pch */,
+				51A4DAEC1E49FEE60021533F /* FrameCacheView.h */,
+				51A4DAED1E49FEE60021533F /* FrameCacheView.m */,
+				51A4DAEE1E49FEE60021533F /* GraphView.h */,
+				51A4DAEF1E49FEE60021533F /* GraphView.m */,
+				51A4DAF01E49FEE60021533F /* Images.xcassets */,
+				51A4DAF11E49FEE60021533F /* main.m */,
+				51A4DAF21E49FEE60021533F /* PlayheadView.h */,
+				51A4DAF31E49FEE60021533F /* PlayheadView.m */,
+				51A4DAF41E49FEE60021533F /* RootViewController.h */,
+				51A4DAF51E49FEE60021533F /* RootViewController.m */,
+				51A4DAF61E49FEE60021533F /* RSPlayPauseButton.h */,
+				51A4DAF71E49FEE60021533F /* RSPlayPauseButton.m */,
+				51A4DAF81E49FEE60021533F /* test-gifs */,
+			);
+			path = FLAnimatedImageDemo;
+			sourceTree = "<group>";
+		};
+		51A4DAF81E49FEE60021533F /* test-gifs */ = {
+			isa = PBXGroup;
+			children = (
+				51A4DAF91E49FEE60021533F /* rock.gif */,
+			);
+			path = "test-gifs";
+			sourceTree = "<group>";
+		};
+		51A4DAFB1E49FEE60021533F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				51A4DB071E49FEE60021533F /* FLAnimatedImageDemo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		51A4DAFE1E49FEE60021533F /* images */ = {
+			isa = PBXGroup;
+			children = (
+				51A4DAFF1E49FEE60021533F /* flanimatedimage-demo-player.gif */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 		51DACAFD1E4866AF00B27D61 = {
@@ -264,115 +354,25 @@
 		51DACB3E1E487DED00B27D61 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				51DACB3F1E487DED00B27D61 /* FLAnimatedImage-master */,
+				51A4DAD51E49FEE60021533F /* FLAnimatedImage-master */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		51DACB3F1E487DED00B27D61 /* FLAnimatedImage-master */ = {
-			isa = PBXGroup;
-			children = (
-				51DACB401E487DED00B27D61 /* .gitignore */,
-				51DACB411E487DED00B27D61 /* CHANGES */,
-				51DACB421E487DED00B27D61 /* FLAnimatedImage */,
-				51DACB481E487DED00B27D61 /* FLAnimatedImage.podspec */,
-				51DACB491E487DED00B27D61 /* FLAnimatedImage.xcodeproj */,
-				51DACB4C1E487DED00B27D61 /* FLAnimatedImage.xcworkspace */,
-				51DACB4D1E487DED00B27D61 /* FLAnimatedImageDemo */,
-				51DACB641E487DED00B27D61 /* FLAnimatedImageDemo.xcodeproj */,
-				51DACB681E487DED00B27D61 /* images */,
-				51DACB6A1E487DED00B27D61 /* LICENSE */,
-				51DACB6B1E487DED00B27D61 /* README.md */,
-			);
-			name = "FLAnimatedImage-master";
-			path = "../../../Downloads/FLAnimatedImage-master";
-			sourceTree = "<group>";
-		};
-		51DACB421E487DED00B27D61 /* FLAnimatedImage */ = {
-			isa = PBXGroup;
-			children = (
-				51DACB431E487DED00B27D61 /* FLAnimatedImage.h */,
-				51DACB441E487DED00B27D61 /* FLAnimatedImage.m */,
-				51DACB451E487DED00B27D61 /* FLAnimatedImageView.h */,
-				51DACB461E487DED00B27D61 /* FLAnimatedImageView.m */,
-				51DACB471E487DED00B27D61 /* Info.plist */,
-			);
-			path = FLAnimatedImage;
-			sourceTree = "<group>";
-		};
-		51DACB4A1E487DED00B27D61 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				51DACB6E1E487DED00B27D61 /* FLAnimatedImage.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		51DACB4D1E487DED00B27D61 /* FLAnimatedImageDemo */ = {
-			isa = PBXGroup;
-			children = (
-				51DACB4E1E487DED00B27D61 /* AppDelegate.h */,
-				51DACB4F1E487DED00B27D61 /* AppDelegate.m */,
-				51DACB501E487DED00B27D61 /* DebugView.h */,
-				51DACB511E487DED00B27D61 /* DebugView.m */,
-				51DACB521E487DED00B27D61 /* InfoPlist.strings */,
-				51DACB541E487DED00B27D61 /* FLAnimatedImageDemo-Info.plist */,
-				51DACB551E487DED00B27D61 /* FLAnimatedImageDemo-Prefix.pch */,
-				51DACB561E487DED00B27D61 /* FrameCacheView.h */,
-				51DACB571E487DED00B27D61 /* FrameCacheView.m */,
-				51DACB581E487DED00B27D61 /* GraphView.h */,
-				51DACB591E487DED00B27D61 /* GraphView.m */,
-				51DACB5A1E487DED00B27D61 /* Images.xcassets */,
-				51DACB5B1E487DED00B27D61 /* main.m */,
-				51DACB5C1E487DED00B27D61 /* PlayheadView.h */,
-				51DACB5D1E487DED00B27D61 /* PlayheadView.m */,
-				51DACB5E1E487DED00B27D61 /* RootViewController.h */,
-				51DACB5F1E487DED00B27D61 /* RootViewController.m */,
-				51DACB601E487DED00B27D61 /* RSPlayPauseButton.h */,
-				51DACB611E487DED00B27D61 /* RSPlayPauseButton.m */,
-				51DACB621E487DED00B27D61 /* test-gifs */,
-			);
-			path = FLAnimatedImageDemo;
-			sourceTree = "<group>";
-		};
-		51DACB621E487DED00B27D61 /* test-gifs */ = {
-			isa = PBXGroup;
-			children = (
-				51DACB631E487DED00B27D61 /* rock.gif */,
-			);
-			path = "test-gifs";
-			sourceTree = "<group>";
-		};
-		51DACB651E487DED00B27D61 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				51DACB711E487DED00B27D61 /* FLAnimatedImageDemo.app */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		51DACB681E487DED00B27D61 /* images */ = {
-			isa = PBXGroup;
-			children = (
-				51DACB691E487DED00B27D61 /* flanimatedimage-demo-player.gif */,
-			);
-			path = images;
 			sourceTree = "<group>";
 		};
 		51DACC371E48A95F00B27D61 /* Design */ = {
 			isa = PBXGroup;
 			children = (
 				51DACD041E48C33500B27D61 /* Shape 30 copy 5.png */,
-				51DACCC61E48B4C900B27D61 /* Diamond copy.png */,
-				51DACCC71E48B4C900B27D61 /* Ellipse 14.png */,
-				51DACCC81E48B4C900B27D61 /* Layer 60.png */,
-				51DACCC91E48B4C900B27D61 /* Layer 61.png */,
-				51DACCCA1E48B4C900B27D61 /* Rectangle 3.png */,
-				51DACCCB1E48B4C900B27D61 /* Rectangle 6 copy.png */,
-				51DACCCC1E48B4C900B27D61 /* Rectangle 24 copy.png */,
-				51DACCCD1E48B4C900B27D61 /* Rectangle 24.png */,
-				51DACCCE1E48B4C900B27D61 /* Rounded Rectangle 12 copy 11.png */,
-				51DACCCF1E48B4C900B27D61 /* Rounded Rectangle 12 copy 12.png */,
+				51A4DA061E49FD9B0021533F /* Diamond copy.png */,
+				51A4DA071E49FD9B0021533F /* Ellipse 14.png */,
+				51A4DA081E49FD9B0021533F /* Layer 60.png */,
+				51A4DA091E49FD9B0021533F /* Layer 61.png */,
+				51A4DA0A1E49FD9B0021533F /* Rectangle 3.png */,
+				51A4DA0B1E49FD9B0021533F /* Rectangle 6 copy.png */,
+				51A4DA0C1E49FD9B0021533F /* Rectangle 24 copy.png */,
+				51A4DA0D1E49FD9B0021533F /* Rectangle 24.png */,
+				51A4DA0E1E49FD9B0021533F /* Rounded Rectangle 12 copy 11.png */,
+				51A4DA0F1E49FD9B0021533F /* Rounded Rectangle 12 copy 12.png */,
 			);
 			path = Design;
 			sourceTree = "<group>";
@@ -450,12 +450,12 @@
 			projectDirPath = "";
 			projectReferences = (
 				{
-					ProductGroup = 51DACB4A1E487DED00B27D61 /* Products */;
-					ProjectRef = 51DACB491E487DED00B27D61 /* FLAnimatedImage.xcodeproj */;
+					ProductGroup = 51A4DAE01E49FEE60021533F /* Products */;
+					ProjectRef = 51A4DADF1E49FEE60021533F /* FLAnimatedImage.xcodeproj */;
 				},
 				{
-					ProductGroup = 51DACB651E487DED00B27D61 /* Products */;
-					ProjectRef = 51DACB641E487DED00B27D61 /* FLAnimatedImageDemo.xcodeproj */;
+					ProductGroup = 51A4DAFB1E49FEE60021533F /* Products */;
+					ProjectRef = 51A4DAFA1E49FEE60021533F /* FLAnimatedImageDemo.xcodeproj */;
 				},
 			);
 			projectRoot = "";
@@ -466,18 +466,18 @@
 /* End PBXProject section */
 
 /* Begin PBXReferenceProxy section */
-		51DACB6E1E487DED00B27D61 /* FLAnimatedImage.framework */ = {
+		51A4DB041E49FEE60021533F /* FLAnimatedImage.framework */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.framework;
 			path = FLAnimatedImage.framework;
-			remoteRef = 51DACB6D1E487DED00B27D61 /* PBXContainerItemProxy */;
+			remoteRef = 51A4DB031E49FEE60021533F /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		51DACB711E487DED00B27D61 /* FLAnimatedImageDemo.app */ = {
+		51A4DB071E49FEE60021533F /* FLAnimatedImageDemo.app */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.application;
 			path = FLAnimatedImageDemo.app;
-			remoteRef = 51DACB701E487DED00B27D61 /* PBXContainerItemProxy */;
+			remoteRef = 51A4DB061E49FEE60021533F /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 /* End PBXReferenceProxy section */
@@ -487,28 +487,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51A4DA111E49FD9B0021533F /* Ellipse 14.png in Resources */,
 				51DACCFA1E48B9AC00B27D61 /* Lato-Italic.ttf in Resources */,
 				51DACB391E48766A00B27D61 /* catch.gif in Resources */,
 				51DACB3D1E48766A00B27D61 /* skate.gif in Resources */,
-				51DACCD81E48B4C900B27D61 /* Rounded Rectangle 12 copy 11.png in Resources */,
 				51DACCFE1E48B9AC00B27D61 /* Lato-MediumItalic.ttf in Resources */,
-				51DACCD61E48B4C900B27D61 /* Rectangle 24 copy.png in Resources */,
-				51DACCD21E48B4C900B27D61 /* Layer 60.png in Resources */,
+				51A4DA151E49FD9B0021533F /* Rectangle 6 copy.png in Resources */,
+				51A4DA121E49FD9B0021533F /* Layer 60.png in Resources */,
 				51DACCF81E48B9AC00B27D61 /* Lato-Heavy.ttf in Resources */,
 				51DACD141E48CC2B00B27D61 /* yandex.jpeg in Resources */,
 				51DACCF61E48B9AC00B27D61 /* Lato-Hairline.ttf in Resources */,
 				51DACD051E48C33500B27D61 /* Shape 30 copy 5.png in Resources */,
-				51DACCD31E48B4C900B27D61 /* Layer 61.png in Resources */,
 				51DACB191E4866AF00B27D61 /* LaunchScreen.storyboard in Resources */,
-				51DACCD71E48B4C900B27D61 /* Rectangle 24.png in Resources */,
 				51DACCF91E48B9AC00B27D61 /* Lato-HeavyItalic.ttf in Resources */,
 				51DACCF31E48B9AC00B27D61 /* Lato-BlackItalic.ttf in Resources */,
-				51DACCD51E48B4C900B27D61 /* Rectangle 6 copy.png in Resources */,
+				51A4DA131E49FD9B0021533F /* Layer 61.png in Resources */,
 				51DACB381E48766A00B27D61 /* cat.gif in Resources */,
 				51DACCF41E48B9AC00B27D61 /* Lato-Bold.ttf in Resources */,
 				51DACB3A1E48766A00B27D61 /* deadman.gif in Resources */,
 				51DACCF21E48B9AC00B27D61 /* Lato-Black.ttf in Resources */,
-				51DACCD41E48B4C900B27D61 /* Rectangle 3.png in Resources */,
+				51A4DA181E49FD9B0021533F /* Rounded Rectangle 12 copy 11.png in Resources */,
 				51DACB371E48766A00B27D61 /* ball.gif in Resources */,
 				51DACB361E48766A00B27D61 /* arnold.gif in Resources */,
 				51DACD121E48CC2B00B27D61 /* collection.jpeg in Resources */,
@@ -516,18 +514,20 @@
 				51DACCFC1E48B9AC00B27D61 /* Lato-LightItalic.ttf in Resources */,
 				51DACB351E48766A00B27D61 /* 200w.gif in Resources */,
 				51DACD021E48B9AC00B27D61 /* Lato-Thin.ttf in Resources */,
+				51A4DA101E49FD9B0021533F /* Diamond copy.png in Resources */,
 				51DACD011E48B9AC00B27D61 /* Lato-SemiboldItalic.ttf in Resources */,
+				51A4DA141E49FD9B0021533F /* Rectangle 3.png in Resources */,
 				51A4D9CF1E49026D0021533F /* Main.storyboard in Resources */,
 				51DACB3B1E48766A00B27D61 /* elephant.gif in Resources */,
 				51DACD001E48B9AC00B27D61 /* Lato-Semibold.ttf in Resources */,
 				51DACB161E4866AF00B27D61 /* Assets.xcassets in Resources */,
-				51DACCD91E48B4C900B27D61 /* Rounded Rectangle 12 copy 12.png in Resources */,
+				51A4DA161E49FD9B0021533F /* Rectangle 24 copy.png in Resources */,
 				51DACD131E48CC2B00B27D61 /* design.png in Resources */,
 				51DACB3C1E48766A00B27D61 /* money.gif in Resources */,
+				51A4DA171E49FD9B0021533F /* Rectangle 24.png in Resources */,
 				51DACCFD1E48B9AC00B27D61 /* Lato-Medium.ttf in Resources */,
 				51DACCFF1E48B9AC00B27D61 /* Lato-Regular.ttf in Resources */,
-				51DACCD11E48B4C900B27D61 /* Ellipse 14.png in Resources */,
-				51DACCD01E48B4C900B27D61 /* Diamond copy.png in Resources */,
+				51A4DA191E49FD9B0021533F /* Rounded Rectangle 12 copy 12.png in Resources */,
 				51DACD031E48B9AC00B27D61 /* Lato-ThinItalic.ttf in Resources */,
 				51DACCF51E48B9AC00B27D61 /* Lato-BoldItalic.ttf in Resources */,
 				51DACCFB1E48B9AC00B27D61 /* Lato-Light.ttf in Resources */,
@@ -562,20 +562,20 @@
 			path = "/Volumes/NO NAME/Translator-master/translater";
 			sourceTree = "<absolute>";
 		};
+		51A4DAE81E49FEE60021533F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				51A4DAE91E49FEE60021533F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
 		51DACB171E4866AF00B27D61 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				51DACB181E4866AF00B27D61 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		51DACB521E487DED00B27D61 /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				51DACB531E487DED00B27D61 /* en */,
-			);
-			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
